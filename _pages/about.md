@@ -6,7 +6,7 @@ subtitle: <a href='#'>CDAC Pune | IISER Mohali</a>
 
 profile:
   align: right
-  image: pikachu.png
+  image: profile.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Pune, Maharashtra</p>
