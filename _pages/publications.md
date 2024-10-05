@@ -13,8 +13,16 @@ nav_order: 2
 
 {% include bib_search.liquid %}
 
+<!-- 
 <div class="publications">
-
+-->
+profile:
+  align: right
+  image: rip.png
+  image_circular: false # crops the image to make it circular
+  more_info: >
+    <p>Pune, Maharashtra</p>
+    
 {% bibliography %}
 
 </div>
