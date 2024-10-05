@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://tasengm.github.io/al-folio/sitemap.xml
