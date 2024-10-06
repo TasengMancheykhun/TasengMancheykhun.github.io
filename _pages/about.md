@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.cdac.in/index.aspx?id=PN'>CDAC Pune | <a href='https://www.iisermohali.ac.in/'>iiIISER Mohali</a>
+subtitle: <a href='https://www.cdac.in/index.aspx?id=PN'>CDAC Pune | <a href='https://www.iisermohali.ac.in/'>IISER Mohali</a>
 
 profile:
   align: right
