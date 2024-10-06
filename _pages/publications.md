@@ -13,7 +13,7 @@ nav_order: 2
 
  <!-- {% include bib_search.liquid %} -->
 
- 
+ <!--
 <div class="publications">
 
 profile:
@@ -26,3 +26,6 @@ profile:
 {% bibliography %}
 
 </div>
+-->
+<img title="a title" alt="Alt text" src="rip.png">
+
