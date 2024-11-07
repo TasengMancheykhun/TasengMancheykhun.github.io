@@ -10,9 +10,9 @@ profile:
   more_info: >
     <p>Pune, Maharashtra</p>
 
-news: true # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+#news: true # includes a list of news items
+#selected_papers: true # includes a list of papers marked as "selected={true}"
+#social: true # includes social icons at the bottom of the page
 ---
 
 This website is a `try out project`. I will be adding more contents to it as time progresses. 
