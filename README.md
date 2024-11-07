@@ -2,8 +2,7 @@
 
 <div align="center">
 
-**A simple, clean, and responsive [Jekyll](https://jekyllrb.com/) theme for academics.**
-
+**A simple, clean, and responsive [Jekyll](https://jekyllrb.com/) website.**
 
 Check out this [website](https://tasengmancheykhun.github.io) 
 
