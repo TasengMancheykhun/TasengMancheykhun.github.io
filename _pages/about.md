@@ -1,4 +1,3 @@
----
 layout: about
 title: about
 permalink: /
@@ -18,7 +17,3 @@ social: true # includes social icons at the bottom of the page
 
 This website is a `try out project`. I will be adding more contents to it as time progresses. 
 
-
-<!---
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
---->
