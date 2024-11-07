@@ -6,7 +6,7 @@ subtitle: <a href='https://www.cdac.in/index.aspx?id=PN'>CDAC Pune | <a href='ht
 
 profile:
   align: right
-  image: profile.jpeg
+  image: pikachu.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Pune, Maharashtra</p>
@@ -18,7 +18,6 @@ social: true # includes social icons at the bottom of the page
 
 This website is a `try out project`. I will be adding more contents to it as time progresses. 
 
-To know about my other interests, do checkout my [publications page](/publications/). It you can't anything there, sorry for wasting your time.
 
 <!---
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
